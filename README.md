@@ -43,6 +43,6 @@ This repository contains the Motion_Analysis Toolbox programmed under Matlab. Fo
 ### Paced Tapping Analysis GUI
 ![GitHub Logo](Readme_images/Paced_tapping_window.png)
 	
-and several other analysis GUIs
+and several other analysis GUIs that can be selected from the main window
 
 			
