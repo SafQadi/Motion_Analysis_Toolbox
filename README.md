@@ -24,4 +24,11 @@ This repository contains the Motion_Analysis Toolbox programmed under Matlab. Fo
   
   ## User Manuel
  A user manuall will be added soon
+	
+	
+## Example Windows
+
+### Main window
+	
+![GitHub Logo](Readme_images\MainWindow.png)
 			
