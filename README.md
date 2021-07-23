@@ -1,4 +1,4 @@
-# Motion_Analysis
+# Motion_Analysis Toolbox
 This repository contains the Motion_Analysis Toolbox programmed under Matlab. For more details please refer to the scientific article: "A Matlab Toolbox for Analyzing Repetitive Movements: Application in Gait and Tapping Experiments" (https://www.degruyter.com/view/journals/bmte/65/4/article-p447.xml).
 
 
