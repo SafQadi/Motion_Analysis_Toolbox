@@ -25,10 +25,25 @@ This repository contains the Motion_Analysis Toolbox programmed under Matlab. Fo
   ## User Manuel
  A user manuall will be added soon
 	
+	<br />
+	<br />
+	
 	
 ## Example Windows
 
 ### Main window
 	
 ![GitHub Logo](Readme_images/MainWindow.png)
+	
+### Gait Analysis GUI
+![GitHub Logo](Readme_images/Gait_Analysis_window.png)
+	
+### Forefoot Analysis GUI
+![GitHub Logo](Readme_images/Forefoot_tapping_window.png)
+	
+### Paced Tapping Analysis GUI
+![GitHub Logo](Readme_images/Paced_tapping_window.png)
+	
+and several other analysis GUIs
+
 			
