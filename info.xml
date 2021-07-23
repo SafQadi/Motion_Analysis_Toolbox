@@ -1,0 +1,58 @@
+<productinfo
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://www.mathworks.com/namespace/info/v1/info.xsd">
+<?xml-stylesheet type="text/xsl" href="http://www.mathworks.com/namespace/info/v1/info.xsl"?>
+
+<matlabrelease>13</matlabrelease>
+<name>Motion Analysis</name>
+<type>toolbox</type>
+<icon>$toolbox/matlab/icons/greenarrowicon.gif</icon>
+<help_location>$docroot/toolbox/Motion</help_location>
+
+<list>
+
+<listitem>
+<label>main window</label>
+<callback>Motion_Analysis</callback>
+<icon>$toolbox/matlab/icons/figureicon.gif</icon>
+</listitem>
+
+<listitem>
+<label>Gait Anaysis Right</label>
+<callback>Gait_Analysis_Right</callback>
+<icon>$toolbox/matlab/icons/greenarrowicon.gif</icon>
+</listitem>
+<listitem>
+<label>Gait Anaysis Left</label>
+<callback>Gait_Analysis_Left</callback>
+<icon>$toolbox/matlab/icons/greenarrowicon.gif</icon>
+</listitem>
+<listitem>
+<label>Forefoot Tapping</label>
+<callback>Forefoot_tapping</callback>
+<icon>$toolbox/matlab/icons/greenarrowicon.gif</icon>
+</listitem>
+<listitem>
+<label>Heel Tapping</label>
+<callback>Heel_tapping</callback>
+<icon>$toolbox/matlab/icons/greenarrowicon.gif</icon>
+</listitem>
+<listitem>
+<label>Hand Tapping</label>
+<callback>Hand_tapping</callback>
+<icon>$toolbox/matlab/icons/greenarrowicon.gif</icon>
+</listitem>
+<listitem>
+<label>Paced Tapping Right</label>
+<callback>Pace_Tapping_Right</callback>
+<icon>$toolbox/matlab/icons/greenarrowicon.gif</icon>
+</listitem>
+<listitem>
+<label>Paced Tapping Left</label>
+<callback>Paced_Tapping_Left</callback>
+<icon>$toolbox/matlab/icons/greenarrowicon.gif</icon>
+</listitem>
+
+</list>
+
+</productinfo>
